@@ -81,3 +81,6 @@ Vehicle Classes: Modify the vehicle_classes list in the script to include the in
 Model: Use a different YOLOv7 model by changing the path in the script.
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
